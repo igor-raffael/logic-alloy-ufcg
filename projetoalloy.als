@@ -1,17 +1,5 @@
 module projeto
 
-/*
-//=================//
-//   INTEGRANTES   //
-//=================//
-
-Lázaro Queiroz do Nascimento - 123110628
-Igor Raffael Menezes de Melo - 123110549
-Rafael Barreto da Silva - 123110738
-Antônio Barros de Alcantara Neto - 123110363
-Matheus Galdino de Souza - 123111147
-
-
 //=================//
 //  ESPECIFICAÇÃO  //
 //=================//
