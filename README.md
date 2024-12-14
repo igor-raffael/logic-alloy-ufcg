@@ -38,15 +38,3 @@ Este projeto é uma modelagem em Alloy de um sistema de reservas para os laborat
 
 - Para verificar as propriedades do sistema, basta abrir o arquivo `.als` no Alloy e rodar as assertivas e predicados.
 - Use os comandos no Alloy para testar cenários e garantir que as restrições estão sendo cumpridas.
-
-## Contribuidores
-
-- Lázaro Queiroz do Nascimento - 123110628
-- Igor Raffael Menezes de Melo - 123110549
-- Rafael Barreto da Silva - 123110738
-- Antônio Barros de Alcantara Neto - 123110363
-- Matheus Galdino de Souza - 123111147
-
-## Licença
-
-Este projeto é para fins acadêmicos e segue as regras estabelecidas pela UFCG.
